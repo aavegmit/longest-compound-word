@@ -50,7 +50,6 @@ class Words {
 	void displayStorage() ;				// Debugging method to print out the contents
 							// of the storage container
 	
-	string findLongestCompoundWord() ;
 	vector<string> findNLongestCompoundWord(int num) ;
 	int findCountofAllCompoundedWords() ;
 
