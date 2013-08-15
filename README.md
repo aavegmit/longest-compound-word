@@ -45,4 +45,4 @@ $ make
 To Run
 ======
 
-./solution <filename>
+./solution filename
